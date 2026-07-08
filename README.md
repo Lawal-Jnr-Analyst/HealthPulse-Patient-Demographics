@@ -96,8 +96,8 @@ HealthPulse-Analytics/
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/Lawal-Jnr-Analyst/HealthPulse-Patient-Demographics.git
-cd HealthPulse-Patient-Demographics
+https://github.com/Lawal-Jnr-Analyst/HealthPulse-Patient-Demographics.git
+
 ```
 
 2. **Open the template in Power BI Desktop**
