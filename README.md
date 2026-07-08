@@ -113,7 +113,7 @@ cd HealthPulse-Patient-Demographics
 
 ## 📷 Preview
 
-![HealthPulse Patient Demographics Dashboard](https://github.com/Lawal-Jnr-Analyst/HealthPulse-Analytics/blob/main/HealthPulse Patient Demographics.jpg)
+![HealthPulse Patient Demographics Dashboard](https://github.com/Lawal-Jnr-Analyst/HealthPulse-Analytics/blob/main/HealthPulse%20Patient%20Demographics.jpg)
 
 ---
 
