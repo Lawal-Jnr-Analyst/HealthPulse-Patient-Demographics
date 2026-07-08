@@ -129,5 +129,5 @@ This project was developed for **portfolio and educational purposes**. The datas
 
 **Data Analyst | Power BI · SQL · Python**
 
-- 🔗 LinkedIn: https://linkedin.com/in/lawal-jnr-analyst
-- 🐙 GitHub: https://github.com/Lawal-Jnr-Analyst
+- 🔗 [LinkedIn](https://linkedin.com/in/lawal-jnr-analyst)
+- 🐙 [Lawal-Jnr-Analyst](https://github.com/Lawal-Jnr-Analyst)
